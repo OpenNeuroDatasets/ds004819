@@ -10,8 +10,8 @@
   "Units": "year-month-day"
  },
  "age": {
-  "Description": "Age in months at time of implant",
-  "Units": "months"
+  "Description": "Age in years at time of implant",
+  "Units": "years"
  },
  "sex": {
   "Description": "Sex",
