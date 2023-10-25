@@ -10,8 +10,8 @@
   "Units": "year-month-day"
  },
  "age": {
-  "Description": "Age in years at time of implant +-3 years",
-  "Units": "years"
+  "Description": "Age in months at time of implant",
+  "Units": "months"
  },
  "sex": {
   "Description": "Sex",
@@ -23,113 +23,22 @@
  "StimulationTest1": {
   "Description": "Type of electrical stimulation test",
   "Levels": {
-   "A": "Single Pulse Multiple stimulation current amplitudes",
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse"
+   "A": "Spine stimulation multiple amplitudes",
+   "N": "n/a"
   }
  },
  "StimulationTest2": {
   "Description": "Type of electrical stimulation test",
   "Levels": {
-   "A": "Single Pulse Multiple stimulation current amplitudes",
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
+   "A": "Whisker airpuff stimulation",
    "N": "n/a"
   }
  },
  "StimulationTest3": {
   "Description": "Type of electrical stimulation test",
   "Levels": {
-   "A": "Single Pulse Multiple stimulation current amplitudes",
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
+   "A": "Whisker barrel stimulation",
    "N": "n/a"
   }
  },
- "StimulationTest4": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "A": "Single Pulse Multiple stimulation current amplitudes",
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest5": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "A": "Single Pulse Multiple stimulation current amplitudes",
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest6": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "A": "Single Pulse Multiple stimulation current amplitudes",
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest7": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest8": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest9": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "S": "Single Pulse Multiple stimulation sites",
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest10": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest11": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest12": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest13": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- },
- "StimulationTest14": {
-  "Description": "Type of electrical stimulation test",
-  "Levels": {
-   "T": "Trains Multiple frequencies and Current Amplitudes Single pulse",
-   "N": "n/a"
-  }
- }
 }
