@@ -1,3 +1,0 @@
-This project contains the data for the publication Lee et al, "Flexible, Scalable, High Channel Count Stereo-Electrode for Recording in the Human Brain". It contains the raw and preprocessed (epoched) intracranial EEG (iEEG) data files for multiple species to test novel high resolution micro-stereo-electrodes for recording neural activity in the brain. The data set involves the use of direct electrical stimulation to examine effects of stimulation in the brain. 
-
-Data are in the iEEG-BIDS format with binary files and channel maps included in the related derivatives folder. 
